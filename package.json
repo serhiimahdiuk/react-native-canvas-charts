@@ -19,6 +19,7 @@
     "prepublishOnly": "echo \"Error: Don't run 'npm publish' in root. Use 'npm run publish' instead.\" && exit 1"
   },
   "dependencies": {
+    "chart.js": "^3.8.0",
     "react-native-webview": "^11.2.1"
   },
   "devDependencies": {
